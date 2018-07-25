@@ -7,5 +7,5 @@ To install and start using it
 </ul>
 Up you go!
 
-For any issue about the project 
-update me via <a href="https://github.com/dpchami/dira/issues">Issue trackers here</a>
+For any issue about the project,
+update the information via <a href="https://github.com/dpchami/dira/issues">Issue trackers here</a>
